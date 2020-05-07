@@ -16,6 +16,6 @@ Part two of the project involves selecting the best model to predict whether a s
 
 ## Part 3 
 
-Part three of the project involves reporting the results of the model and outputing the software that will allow an external user to run and verify the accuracy of the model. The model can be run by clicking on the Binder badge below. After clicking the badge, a new window will open in the browser with a Jupyter Notebook that can be run on the selected model.  
+Part three of the project involves reporting the results of the model and developing a simple piece of software that will allow an external user to run and verify the accuracy of the selected model. The model can be run by clicking on the Binder badge below. After clicking the badge, a new window will open in the browser with a Jupyter Notebook that can be run on the selected model.  
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akhullar001/triad-challenge/master?filepath=model_run.ipynb)
