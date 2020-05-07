@@ -1,6 +1,6 @@
 # TRIAD Data Scientist Challenge
 
-The repository contains the analysis and results from the TRIAD Data Scientist challenge project. 
+This repository contains the analysis and results from the TRIAD Data Scientist challenge project. 
 
 ## Goal 
 
